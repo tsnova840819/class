@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1539845089603.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1C7B4637",
+    "lastKnownWriteTime" : 1539849888,
+    "last_content_update" : 1539849888005,
+    "path" : "D:/rproject/Rhomework/first.Rmd",
+    "project_path" : "first.Rmd",
+    "properties" : {
+        "cursorPosition" : "29,0",
+        "last_setup_crc32" : "",
+        "scrollLine" : "19",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

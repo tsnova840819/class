@@ -1,0 +1,37 @@
+---
+title: "Untitled"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+x<-1
+y<-2
+z<-c(x,y)
+```
+
+```{r}
+x+y-5
+```
+
+```{r}
+x %% y
+x %/% y 
+```
+%/%  商數  
+%%   餘數  
+NA   遺失值
+inf  無限大
+-inf 負無限大
+NaN  不是數字 不可定義
+
+```{r}
+1/0
+0/0
+```
+
+
+
